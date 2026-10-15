@@ -1,4 +1,7 @@
-# TeamUp frontend (React + Vite + Supabase)
+# TeamUp
+AI Powered Project Team Finder
+
+## Frontend
 
 ## Run
 1. `npm install`
